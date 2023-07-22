@@ -1,0 +1,1 @@
+En el dia hoy vamos a trabajar los conceptos de git para poder realizar los ejercicios con los comandos de git,git es un sistema de control de versiones 
